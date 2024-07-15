@@ -5,7 +5,7 @@ Expose an endpoint through controller, to show the ranking based videos.
 
 # TODO:
 
-Add a Search Bar on Frontend app to utilise the end point for ranking videos based on searched video text. Expose fuzzy search logic to controller.
+Add a Search Bar on Frontend app to utilise the end point for ranking videos based on searched video text. Expose fuzzy search logic to controller. Add an external datasource.
 
 # Prerequisite:
 
